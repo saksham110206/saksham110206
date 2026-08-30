@@ -42,7 +42,7 @@ AI Engineer in the making | Building Agentic AI, RAG pipelines & LLM-powered sys
 
 ### Featured Projects
 
-- **[MindTheContext](https://github.com/saksham110206)** — A deterministic, drop-in memory API that prevents context loss beyond 15–30 conversational turns. Implements zero-latency memory drift tracking with real-time entity scaling and autonomous break detection, orchestrated via LangGraph. 🏆 *2nd Prize, Gen AI Hackathon @ VIT Bhopal*
+- **[MindTheContext](https://github.com/saksham110206)** — A deterministic, drop-in memory API that prevents context loss beyond 15–30 conversational turns. Implements zero-latency memory drift tracking with real-time entity scaling and autonomous break detection, orchestrated via LangGraph. 
 - **[Stock Prediction Using ML](https://github.com/saksham110206)** — Forecasts stock prices from historical market data using statistical analysis and predictive modeling to support data-driven investment decisions.
 
 
