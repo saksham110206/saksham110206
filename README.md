@@ -65,34 +65,11 @@ AI Engineer in the making | Building Agentic AI, RAG pipelines & LLM-powered sys
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham110206&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham110206&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham110206&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ### Featured Projects
 
 - **[MindTheContext](https://github.com/saksham110206)** — A deterministic, drop-in memory API that prevents context loss beyond 15–30 conversational turns. Implements zero-latency memory drift tracking with real-time entity scaling and autonomous break detection, orchestrated via LangGraph. 🏆 *2nd Prize, Gen AI Hackathon @ VIT Bhopal*
 - **[Stock Prediction Using ML](https://github.com/saksham110206)** — Forecasts stock prices from historical market data using statistical analysis and predictive modeling to support data-driven investment decisions.
 
----
-
-### Certifications
-
-- Complete Generative AI Course with LangChain and Hugging Face — Udemy (Krish Naik)
-- Applied Machine Learning in Python — University of Michigan (Coursera)
-- Data Structures and Algorithms (C++) — Udemy (Abdul Bari)
-- Python Programming — Vityarthi
-- MATLAB — MathWorks
-
----
 
 <p align="center"><i>Always building, always learning — let's connect!</i></p>
